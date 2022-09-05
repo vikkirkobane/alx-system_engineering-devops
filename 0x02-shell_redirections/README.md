@@ -1,1 +1,2 @@
-ts “Hello, World”, followed by a new line to the standard output.
+
+Tasks to identify variou commands for standard input and output.
